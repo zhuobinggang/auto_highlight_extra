@@ -1,0 +1,16 @@
+# 需要逐个检查，看看是否存在强调标签，强调的比率是多少，排除掉强调标签的比率太少的文章
+
+https://www.businessinsider.jp/post-292750
+https://www.businessinsider.jp/post-292675
+https://www.businessinsider.jp/post-292617
+https://www.businessinsider.jp/post-292618
+https://www.businessinsider.jp/post-292563
+https://www.businessinsider.jp/post-292248
+# page2
+https://www.businessinsider.jp/post-291981
+https://www.businessinsider.jp/post-291834
+https://www.businessinsider.jp/post-291739
+https://www.businessinsider.jp/post-291699
+https://www.businessinsider.jp/post-291661
+https://www.businessinsider.jp/post-291645
+# page3
